@@ -5,3 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
 
 ![](https://images.unsplash.com/photo-1650374465797-f277b40fffe5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)    
+
+.
